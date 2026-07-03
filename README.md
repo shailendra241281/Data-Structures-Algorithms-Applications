@@ -200,6 +200,3 @@ This project demonstrates practical implementation of:
 # 👨‍💻 Author
 
 **Shailendra Meena**
-
-B.Tech, Mechanical Engineering  
-Indian Institute of Technology Kanpur
